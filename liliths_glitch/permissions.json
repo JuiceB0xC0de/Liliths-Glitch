@@ -1,0 +1,24 @@
+[
+  {
+    "app": "/Applications/YourGPTApp.app",
+    "permissions": [
+      "kTCCServiceSystemPolicyAllFiles",
+      "kTCCServiceAccessibility",
+      "kTCCServiceScreenCapture",
+      "kTCCServiceListenEvent"
+    ]
+  },
+  {
+    "app": "/Applications/Perplexity.app",
+    "permissions": [
+      "kTCCServiceSystemPolicyAllFiles",
+      "kTCCServiceAccessibility"
+    ]
+  },
+  {
+    "app": "/Users/kali/scripts/askclaude.sh",
+    "permissions": [
+      "kTCCServiceSystemPolicyAllFiles"
+    ]
+  }
+]
